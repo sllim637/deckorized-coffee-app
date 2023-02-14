@@ -1,0 +1,1 @@
+{"version":3,"file":"get-category.dto.js","sourceRoot":"","sources":["../../../src/gestion-produit/dto/get-category.dto.ts"],"names":[],"mappings":";;;AAEA,MAAa,cAAc;IACvB,YAAY,EAAE,EAAG,IAAa;QAC1B,IAAI,CAAC,UAAU,GAAG,EAAE,CAAC;QACrB,IAAI,CAAC,YAAY,GAAG,IAAI,CAAA;IAC5B,CAAC;CAKJ;AATD,wCASC"}
